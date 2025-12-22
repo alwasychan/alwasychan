@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Al Wasy</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alwasychan&label=Profile%20views&color=0e75b6&style=flat" alt="alwasychan" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alwasychan" alt="alwasychan" /></a> </p>
 
-- 🔭 I’m just worked at [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
+- 🔭 I worked at [Kotatsu](https://github.com/KotatsuApp/Kotatsu) and , [Sorayomi]((https://github.com/Suwayomi/Tachidesk-Sorayomi)) as an app tester
 
 - 🌱 I’m currently learning **Python, C, Discrete Math and Java**
 
-- 👯 I’m looking to collaborate on [Deepseek](https://github.com/deepseek-ai/DeepSeek-V3)
-
-- 💬 Ask me about **Python**
+- 👯 I’m looking to collaborate on [Deepseek](https://github.com/deepseek-ai/DeepSeek-V3) (as I got interested in AI stuffs)
+- 💬 Ask me about **Anythiing(because Here we got the internet)**
 
 - 📫 How to reach me **alwasychan@proton.me**
 
