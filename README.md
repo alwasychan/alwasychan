@@ -10,6 +10,7 @@
 - 📫 How to reach me **alwasychan@proton.me**
 
 - ⚡ Sad fact **I'm Hikikomori and suffering from social anxiety**
+- 🏆 got Certificate of https://www.udemy.com/certificate/UC-afe5976f-94cc-41a4-a429-73b8c1f7fec4/
 
 
 # 💻 Tech Stack:
